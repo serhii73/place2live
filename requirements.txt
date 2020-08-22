@@ -1,4 +1,4 @@
 colorful==0.5.4
-pandas==0.25.3
+pandas==1.1.1
 pre-commit==1.21.0
 requests==2.22.0
